@@ -1,4 +1,4 @@
-// Checking JS code
+// Checking code
 var error = false
 var error_message = ""
 if (error==true) {
