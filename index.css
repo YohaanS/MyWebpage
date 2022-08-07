@@ -1,0 +1,30 @@
+h1 {
+ color: green;
+ background-color: orange;
+}
+h2 {
+ color: purple;
+ background-color: red;
+}
+h3 {
+ background-color: lightgreen;
+ color: green;
+}
+h4 {
+ color: yellow;
+ background-color: green;
+}
+ol, ul {
+ color: grey;
+ background-color: lightblue;
+}
+p {
+   background-color: purple;
+   color: grey;
+}
+body {
+ background-color: blue;
+}
+#Pledge {
+ background-color: blue;
+}
