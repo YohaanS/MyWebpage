@@ -27,4 +27,17 @@ body {
 }
 #Pledge {
  background-color: blue;
+ color: black;
+}
+.Yellow {
+ color: rgb(255, 255, 0);
+}
+.blue {
+ color: rgb(0, 128, 255);
+}
+.purple {
+ color: purple;
+}
+.red {
+ color: red;
 }
