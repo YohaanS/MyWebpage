@@ -1,6 +1,7 @@
 h1 {
  color: green;
  background-color: orange;
+ font-family: monospace;
 }
 h2 {
  color: purple;
@@ -28,6 +29,7 @@ body {
 #Pledge {
  background-color: blue;
  color: black;
+ font-family: fantasy;
 }
 .Yellow {
  color: rgb(255, 255, 0);
@@ -44,6 +46,7 @@ body {
 .Songs {
  color: purple;
  background-color: yellow;
+ font-family: cursive;
 }
 #go-to-swim-school {
    color: red;
@@ -52,6 +55,7 @@ body {
 
 #info {
    color: green;
+   font-family: Arial, Helvetica, sans-serif;
 }
 a {
    color:red;
