@@ -74,3 +74,6 @@ a {
 table {
    color: white;
 }
+#important {
+   background: grey;
+}
