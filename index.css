@@ -80,5 +80,18 @@ table {
    height: 180px;
    overflow-y: auto;
    overflow-x: auto;
+   margin: 15px 0px 10px 6px;
    
+}
+img {
+   width: 120px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   border: 6px ridge red;
+}
+#container {
+   width: 400px;
+   margin: auto;
+   border: 1px solid rgb(145, 0, 0);
+   border-top: 10px solid purple;
 }
