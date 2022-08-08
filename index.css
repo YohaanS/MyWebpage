@@ -76,4 +76,9 @@ table {
 }
 #important {
    background: grey;
+   width: 70%;
+   height: 180px;
+   overflow-y: auto;
+   overflow-x: auto;
+   
 }
