@@ -53,6 +53,8 @@ body {
  background-color: yellow;
  font-family: cursive;
  font-style: italic;
+ line-height: 6em;
+ text-align: center;
 }
 #go-to-swim-school {
    color: red;
@@ -63,6 +65,7 @@ body {
    color: green;
    font-family: Arial, Helvetica, sans-serif;
    font-weight: bold;
+   text-decoration: underline;
 }
 a {
    color:red;
