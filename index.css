@@ -4,7 +4,8 @@ h1 {
  font-family: monospace;
  font-size: 4em;
  position: fixed;
- left: 1000px;
+ left: 1100px;
+ bottom: 100px;
 }
 h2 {
  color: purple;
@@ -93,4 +94,17 @@ img {
 
 #aqua_tot_img {
   float: left;
+  clear: both;
+  margin-right: 8px;
+}
+#L4V {
+   float: right;
+   width: 30%;
+   margin-bottom: 10px;
+}
+.fact {
+  border: 3px solid rgb(0, 255, 0); 
+}
+.warning {
+   color: red;
 }
