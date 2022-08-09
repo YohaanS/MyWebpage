@@ -103,8 +103,17 @@ img {
    margin-bottom: 10px;
 }
 .fact {
-  border: 3px solid rgb(0, 255, 0); 
+  border: 1px solid rgb(43, 848, 54);
 }
 .warning {
+   background-color: red;
+   color: white;
+}
+
+h5.warning {
+   border: 5px solid orange;
+}
+p .warning {
    color: red;
+   background-color: transparent;
 }
